@@ -14,7 +14,6 @@ public abstract class Emotion {
     private Date date;
     private String feeling;
     private String comment;
-    private static final Integer MAX_CHARS = 100;
 
     /**
      * Set feeling.
