@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\4d50954b5329b15bfe884a3bb521e652\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\02ed7ab3f38949b5606c3d85e4424e11\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\fdda1870ee6d8d48ac0e383c096d12ad\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\14584df53d41941727b90a83ce71eb67\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\6bde2fc9620e1e7c72ffe20dd9e68aa4\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\646543255c9f2ec08324b179b45cfd03\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\df399e602e8ed0050a89354ca717ba44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\de8c2bfbd55e7f9580ca79d200348337\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\200afe9cd83f739b874939fadd15cb32\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\62613637044134142fd86bf30e340085\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\63290832426e4d228c5ce2092d690aa2\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\05b4276342dc67a073f1620313b6325b\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\563ee4fcbea49c38a4b93a8502573e83\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\f58b58c7fe762e48dc78b4c0791910da\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\681d38adb180d432d4cd120079873a4a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\a53cc8b75af5fab1ef54df47bb956aa0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\a40c07484fecceb62cff7fc4eb8bd75e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\295236cc42e115fc0dd89602d0f48dcc\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\769c16133093b15c6ec6f4768c2dba37\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\bc78a4cfc7bf99542af3d0c7ad20b05e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\9b0052869cac3441e260369e1125d918\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c8ab59c9411489e15425d1ed1de95939\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6130879f721b03975bdfbcb53f9fc879\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3b0267b2fc7215fd9fc67968cacd32f8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bd6a9a049467ec136fa8b6514e00faa5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\02ed7ab3f38949b5606c3d85e4424e11\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\02ed7ab3f38949b5606c3d85e4424e11\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.fei5_feelsbook.MainActivity
+ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.fei5_feelsbook.EditHistory
+ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:19:9-49
+	android:name
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:19:19-46
+activity#com.example.fei5_feelsbook.ShowHistoryAndCount
+ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:20:9-66
+	android:name
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml:20:19-54
+uses-sdk
+INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\4d50954b5329b15bfe884a3bb521e652\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\4d50954b5329b15bfe884a3bb521e652\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\02ed7ab3f38949b5606c3d85e4424e11\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\02ed7ab3f38949b5606c3d85e4424e11\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\fdda1870ee6d8d48ac0e383c096d12ad\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\fdda1870ee6d8d48ac0e383c096d12ad\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\14584df53d41941727b90a83ce71eb67\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\14584df53d41941727b90a83ce71eb67\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\6bde2fc9620e1e7c72ffe20dd9e68aa4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\6bde2fc9620e1e7c72ffe20dd9e68aa4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\646543255c9f2ec08324b179b45cfd03\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\646543255c9f2ec08324b179b45cfd03\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\df399e602e8ed0050a89354ca717ba44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\df399e602e8ed0050a89354ca717ba44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\de8c2bfbd55e7f9580ca79d200348337\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\de8c2bfbd55e7f9580ca79d200348337\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\200afe9cd83f739b874939fadd15cb32\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\200afe9cd83f739b874939fadd15cb32\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\62613637044134142fd86bf30e340085\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\62613637044134142fd86bf30e340085\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\63290832426e4d228c5ce2092d690aa2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\63290832426e4d228c5ce2092d690aa2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\05b4276342dc67a073f1620313b6325b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\05b4276342dc67a073f1620313b6325b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\563ee4fcbea49c38a4b93a8502573e83\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\563ee4fcbea49c38a4b93a8502573e83\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\f58b58c7fe762e48dc78b4c0791910da\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\f58b58c7fe762e48dc78b4c0791910da\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\681d38adb180d432d4cd120079873a4a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\681d38adb180d432d4cd120079873a4a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\a53cc8b75af5fab1ef54df47bb956aa0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\a53cc8b75af5fab1ef54df47bb956aa0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\a40c07484fecceb62cff7fc4eb8bd75e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\a40c07484fecceb62cff7fc4eb8bd75e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\295236cc42e115fc0dd89602d0f48dcc\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\295236cc42e115fc0dd89602d0f48dcc\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\769c16133093b15c6ec6f4768c2dba37\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\769c16133093b15c6ec6f4768c2dba37\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\bc78a4cfc7bf99542af3d0c7ad20b05e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\bc78a4cfc7bf99542af3d0c7ad20b05e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\9b0052869cac3441e260369e1125d918\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\9b0052869cac3441e260369e1125d918\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c8ab59c9411489e15425d1ed1de95939\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c8ab59c9411489e15425d1ed1de95939\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6130879f721b03975bdfbcb53f9fc879\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6130879f721b03975bdfbcb53f9fc879\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3b0267b2fc7215fd9fc67968cacd32f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3b0267b2fc7215fd9fc67968cacd32f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bd6a9a049467ec136fa8b6514e00faa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Phoeb\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bd6a9a049467ec136fa8b6514e00faa5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Phoeb\Documents\GitHub\fei5-FeelsBook\app\src\main\AndroidManifest.xml
