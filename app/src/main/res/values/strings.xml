@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">fei5-FeelsBook</string>
+    <string name="love">LOVE</string>
+    <string name="joy">JOY</string>
+    <string name="surprise">SURPRISE</string>
+    <string name="anger">ANGER</string>
+    <string name="sadness">SADNESS</string>
+    <string name="fear">FEAR</string>
+    <string name="history">History</string>
+    <string name="Guide">Today, I feels ...</string>
+    <string name="Comment">Enter your comment (less than 100  characters)</string>
+    <string name="Save">SAVE</string>
+    <string name="Delete">DELETE</string>
+
+
+</resources>
