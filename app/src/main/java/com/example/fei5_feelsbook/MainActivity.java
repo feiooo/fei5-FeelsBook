@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity {
                 newEmotion.setDate(new Date());
                 emos.add(newEmotion);
                 saveInFile();
+                comment.setText("");
             }
 
         });
@@ -83,6 +84,7 @@ public class MainActivity extends AppCompatActivity {
                 newEmotion.setDate(new Date());
                 emos.add(newEmotion);
                 saveInFile();
+                comment.setText("");
             }
 
         });
@@ -100,6 +102,7 @@ public class MainActivity extends AppCompatActivity {
                 newEmotion.setDate(new Date());
                 emos.add(newEmotion);
                 saveInFile();
+                comment.setText("");
             }
 
         });
@@ -117,6 +120,7 @@ public class MainActivity extends AppCompatActivity {
                 newEmotion.setDate(new Date());
                 emos.add(newEmotion);
                 saveInFile();
+                comment.setText("");
             }
 
         });
@@ -134,6 +138,7 @@ public class MainActivity extends AppCompatActivity {
                 newEmotion.setDate(new Date());
                 emos.add(newEmotion);
                 saveInFile();
+                comment.setText("");
             }
 
         });
@@ -151,6 +156,7 @@ public class MainActivity extends AppCompatActivity {
                 newEmotion.setDate(new Date());
                 emos.add(newEmotion);
                 saveInFile();
+                comment.setText("");
             }
 
         });
