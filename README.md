@@ -2,15 +2,14 @@
 Fei Yang 1518248
 CMPUT301-Assignment1-fei5-FeelsBook
 
-UML and Video
-in the doc/ subdirectory
+UML and Video are in the doc/ subdirectory
 
 The app allows the user to:
-Quickly record an emotion with only 1 click on the app and add an optional comment.
-See a count of each emotion recorded
-Browse and view the history of emotions.
-view and edit the details past emotions.
-delete a past emotion.
+  1. Quickly record an emotion with only 1 click on the app and add an optional comment.
+  2. See a count of each emotion recorded
+  3. Browse and view the history of emotions.
+  4. view and edit the details past emotions.
+  5. delete a past emotion.
 
 Reference
 1. Joshua Charles Campbell, 2015/09/14, retrieved 2018/09/28 - 2018/10/05, 
